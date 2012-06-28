@@ -1,0 +1,2 @@
+A team project from '09 allowing one to determine if a chessboard can be completely dominated with a certain number of queens.
+CoveringSet class does this using a stack while CoveringSet2 does this by way of a 2 dimensional matrix consisting of 1s and 0s.
